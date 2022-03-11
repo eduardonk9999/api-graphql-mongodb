@@ -2,5 +2,5 @@
 
 
 <h4> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧 🚀 Em construção...  🚧
 </h4>
